@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m primarily a backend developer working on Java
+- 🌱 I’m currently learning React, Rust, Unity
+- ⚡ Hobbies: Playing PC games, find me on steam (`GordonFreeman`)
+
 <!--
 **kushagra-mahajan/kushagra-mahajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
