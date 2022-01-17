@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m primarily a backend developer working on Java
-- 🌱 I’m currently learning React, Rust, Unity
+- 🔭 I’m a software engineer
 - ⚡ Hobbies: Playing PC games, find me on steam (`GordonFreeman`)
 
 <!--
